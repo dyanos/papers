@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-02-18T13:37:05.271Z",
+  "baseCommitSha": "cde4df0947cdd97a18d424454276e2412a86cb1d",
+  "contentHash": "8554cb5f2b24da5a0763adb5aec996032b3a9b72206e017e7b21066a45efc663",
+  "storeVersion": 2,
+  "referenceCount": 13,
+  "paths": {
+    "json": ".citeflow/references.json",
+    "markdown": ".citeflow/references.md"
+  },
+  "deviceId": "d7fd3836-b64b-48c6-92c2-396a96e64e90"
+}
