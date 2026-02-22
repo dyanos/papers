@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-02-18T13:37:05.271Z",
-  "baseCommitSha": "cde4df0947cdd97a18d424454276e2412a86cb1d",
-  "contentHash": "8554cb5f2b24da5a0763adb5aec996032b3a9b72206e017e7b21066a45efc663",
+  "generatedAt": "2026-02-22T01:40:36.546Z",
+  "baseCommitSha": "641297e0656559b1cbc5ca73efc386172afbb6d8",
+  "contentHash": "b20877c9e10d23612b3bbd2a6851ceccb1913d4d287fd4ef88fa8d5edeb9e2cf",
   "storeVersion": 2,
-  "referenceCount": 13,
+  "referenceCount": 28,
   "paths": {
     "json": ".citeflow/references.json",
     "markdown": ".citeflow/references.md"
